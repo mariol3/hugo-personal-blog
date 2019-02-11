@@ -1,4 +1,4 @@
 baseURL = "http://mariogrimaldi.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "mariogrimaldi.me"
 theme = "hugo-paper"
